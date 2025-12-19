@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|c:\\users\\ashwani15\\source\\repos\\cosmos_connectivity\\cosmos_connectivity\\ad.entities\\adminens\\admine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|solutionrelative:cosmos_connectivity\\ad.entities\\adminens\\admine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|c:\\users\\ashwani15\\source\\repos\\cosmos_connectivity\\cosmos_connectivity\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|solutionrelative:cosmos_connectivity\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|c:\\users\\ashwani15\\source\\repos\\cosmos_connectivity\\cosmos_connectivity\\ad.functions\\adminfunc\\createadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|solutionrelative:cosmos_connectivity\\ad.functions\\adminfunc\\createadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|c:\\users\\ashwani15\\source\\repos\\cosmos_connectivity\\cosmos_connectivity\\ad.cosmosdb\\cosmosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|solutionrelative:cosmos_connectivity\\ad.cosmosdb\\cosmosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|c:\\users\\ashwani15\\source\\repos\\cosmos_connectivity\\cosmos_connectivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|solutionrelative:cosmos_connectivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|c:\\users\\ashwani15\\source\\repos\\cosmos_connectivity\\cosmos_connectivity\\ad.cosmosdb\\icosmosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|solutionrelative:cosmos_connectivity\\ad.cosmosdb\\icosmosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|c:\\users\\ashwani15\\source\\repos\\cosmos_connectivity\\cosmos_connectivity\\cosmos_connectivity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43912743-2D4C-4178-8C25-C1DEA0626DA2}|Cosmos_Connectivity\\Cosmos_Connectivity.csproj|solutionrelative:cosmos_connectivity\\cosmos_connectivity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\Program.cs",
+              "RelativeDocumentMoniker": "Cosmos_Connectivity\\Program.cs",
+              "ToolTip": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\Program.cs",
+              "RelativeToolTip": "Cosmos_Connectivity\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T18:06:34.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\AD.Functions\\AdminFunc\\CreateAdmin.cs",
+              "RelativeDocumentMoniker": "Cosmos_Connectivity\\AD.Functions\\AdminFunc\\CreateAdmin.cs",
+              "ToolTip": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\AD.Functions\\AdminFunc\\CreateAdmin.cs",
+              "RelativeToolTip": "Cosmos_Connectivity\\AD.Functions\\AdminFunc\\CreateAdmin.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:56:20.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICosmosDB.cs",
+              "DocumentMoniker": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\AD.CosmosDB\\ICosmosDB.cs",
+              "RelativeDocumentMoniker": "Cosmos_Connectivity\\AD.CosmosDB\\ICosmosDB.cs",
+              "ToolTip": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\AD.CosmosDB\\ICosmosDB.cs",
+              "RelativeToolTip": "Cosmos_Connectivity\\AD.CosmosDB\\ICosmosDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:55:26.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CosmosService.cs",
+              "DocumentMoniker": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\AD.CosmosDB\\CosmosService.cs",
+              "RelativeDocumentMoniker": "Cosmos_Connectivity\\AD.CosmosDB\\CosmosService.cs",
+              "ToolTip": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\AD.CosmosDB\\CosmosService.cs",
+              "RelativeToolTip": "Cosmos_Connectivity\\AD.CosmosDB\\CosmosService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:54:58.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminE.cs",
+              "DocumentMoniker": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\AD.Entities\\AdminEns\\AdminE.cs",
+              "RelativeDocumentMoniker": "Cosmos_Connectivity\\AD.Entities\\AdminEns\\AdminE.cs",
+              "ToolTip": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\AD.Entities\\AdminEns\\AdminE.cs",
+              "RelativeToolTip": "Cosmos_Connectivity\\AD.Entities\\AdminEns\\AdminE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:54:42.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cosmos_Connectivity.csproj",
+              "DocumentMoniker": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\Cosmos_Connectivity.csproj",
+              "RelativeDocumentMoniker": "Cosmos_Connectivity\\Cosmos_Connectivity.csproj",
+              "ToolTip": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\Cosmos_Connectivity.csproj",
+              "RelativeToolTip": "Cosmos_Connectivity\\Cosmos_Connectivity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-08T17:44:54.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\local.settings.json",
+              "RelativeDocumentMoniker": "Cosmos_Connectivity\\local.settings.json",
+              "ToolTip": "C:\\Users\\Ashwani15\\source\\repos\\Cosmos_Connectivity\\Cosmos_Connectivity\\local.settings.json",
+              "RelativeToolTip": "Cosmos_Connectivity\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAADJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-08T17:54:04.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
