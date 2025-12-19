@@ -1,0 +1,36 @@
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+variables:
+  buildConfiguration: Release
+
+steps:
+- task: UseDotNet@2
+  displayName: "Install .NET 8 SDK"
+  inputs:
+    packageType: sdk
+    version: 8.x
+
+- script: |
+    dotnet restore
+    dotnet build --configuration $(buildConfiguration)
+    dotnet publish -c $(buildConfiguration) -o $(Build.ArtifactStagingDirectory)
+  displayName: "Build and Publish Azure Function"
+
+- task: ArchiveFiles@2
+  displayName: "Create ZIP package"
+  inputs:
+    rootFolderOrFile: "$(Build.ArtifactStagingDirectory)"
+    includeRootFolder: false
+    archiveType: zip
+    archiveFile: "$(Build.ArtifactStagingDirectory)/functionapp.zip"
+    replaceExistingArchive: true
+
+- task: PublishBuildArtifacts@1
+  displayName: "Publish Build Artifact"
+  inputs:
+    pathToPublish: "$(Build.ArtifactStagingDirectory)/functionapp.zip"
+    artifactName: drop
